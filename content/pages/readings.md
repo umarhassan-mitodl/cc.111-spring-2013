@@ -3,8 +3,6 @@ content_type: page
 description: This section provides the schedule of readings by week and topic, and
   citations for course textbooks.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -13,15 +11,15 @@ uid: 1b55e915-205e-72ff-cdf1-f6ada0d3da9a
 ---
 \[Machiavelli\] = Machiavelli, Niccolò. *The Prince.* 2nd ed. Translated by Harvey C. Mansfield. University of Chicago Press, 1998. ISBN: 9780226500447.
 
-\[Hobbes\] = Hobbes, Thomas. *Leviathan: with Selected Variants from the Latin Edition of 1668*. Edited by Edwin Curley. Hackett Publishing Company, 1994. ISBN: 9780872201774. \[Preview with [Google Books](http://books.google.com/books?id=AMnB469I8bYC&pg=PAfrontcover)\]
+\[Hobbes\] = Hobbes, Thomas. *Leviathan: with Selected Variants from the Latin Edition of 1668*. Edited by Edwin Curley. Hackett Publishing Company, 1994. ISBN: 9780872201774. \[Preview with {{% resource_link "2a167af1-17b0-41fe-8f98-bad449c09437" "Google Books" %}}\]
 
-\[Locke\] = Locke, John. *Second Treatise of Government*. Edited by C. B. Macpherson. Hackett Publishing Company, 1980. ISBN: 9780915144860. \[Preview with [Google Books](http://books.google.com/books?id=GK32AiZm3GEC&pg=PAfrontcover)\]
+\[Locke\] = Locke, John. *Second Treatise of Government*. Edited by C. B. Macpherson. Hackett Publishing Company, 1980. ISBN: 9780915144860. \[Preview with {{% resource_link "d5abd46f-2325-4de9-9fb9-efffa44057b7" "Google Books" %}}\]
 
 \[Tocqueville\] = Tocqueville, Alexis de. *Democracy in America*. Translated, Edited, and with an Introduction by Harvey C. Mansfield, and Delba Winthrop. University of Chicago Press, 2002. ISBN: 9780226805368.
 
 \[Rousseau\] = Rousseau, Jean-Jacques. *The First and Second Discourses*. Edited by Roger D. Masters. Bedford / St. Martin's Press, 1969. ISBN: 9780312694401.
 
-\[Nietzsche\] = Nietzsche, Friedrich. *On the Advantage and Disadvantage of History for Life*. Translated by Peter Preuss. Hackett Publishing Company, 1980. ISBN: 9780915144945. \[Preview with [Google Books](http://books.google.com/books?id=k9wwrAakUmAC&pg=Pafrontcover)\]
+\[Nietzsche\] = Nietzsche, Friedrich. *On the Advantage and Disadvantage of History for Life*. Translated by Peter Preuss. Hackett Publishing Company, 1980. ISBN: 9780915144945. \[Preview with {{% resource_link "8c1554dc-9aad-4b96-be90-bb7b75f8f733" "Google Books" %}}\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
@@ -165,9 +163,9 @@ Legitimate Government
 Freedom of Thought
 {{< tdclose >}}{{< tdopen >}}
 
-Locke, John. *A Letter Concerning Toleration*. CreateSpace Independent Publishing Platform, 2013. ISBN: 9781453846414. \[Preview with [Google Books](http://books.google.com/books?id=V1jg37j7H-AC&pg=PAfrontcover)\]
+Locke, John. *A Letter Concerning Toleration*. CreateSpace Independent Publishing Platform, 2013. ISBN: 9781453846414. \[Preview with {{% resource_link "43ae0bc4-6542-4d01-90cb-679df1839534" "Google Books" %}}\]
 
-[Declaration of Independence](http://www.archives.gov/exhibits/charters/declaration_transcript.html), archives.gov.
+{{% resource_link "00781e55-1d58-489c-8466-792d69532b87" "Declaration of Independence" %}}, archives.gov.
 
 *See the* {{% resource_link "daa2ba65-4163-c1b8-47d5-c317f6b1af75" "*Study Questions*" "#7" %}} *section*
 
@@ -179,23 +177,23 @@ Locke, John. *A Letter Concerning Toleration*. CreateSpace Independent Publishin
 The American Founding
 {{< tdclose >}}{{< tdopen >}}
 
-[The Articles of Confederation](http://www.ourdocuments.gov/doc.php?flash=true&doc=3&page=transcript), ourdocuments.gov.
+{{% resource_link "1e768864-fea6-47e3-b92a-f6b636849785" "The Articles of Confederation" %}}, ourdocuments.gov.
 
-[Constitution of the United States](http://www.archives.gov/exhibits/charters/constitution_transcript.html), archives.gov.
+{{% resource_link "435afedc-d5d4-41dc-afcb-a52eb49af607" "Constitution of the United States" %}}, archives.gov.
 
 Madison, James. "The Federalist, No. 10: The Utility of the Union as a Safeguard Against Domestic Faction and Insurrection."
 
-———. "[The Federalist, No. 49: Method of Guarding Against the Encroachments of Any One Department of Government b Appealing to the People Through a Convention](https://guides.loc.gov/federalist-papers/text-41-50#s-lg-box-wrapper-25493416)."
+———. "{{% resource_link "f3cd3b7e-19e6-4a52-9411-24f425dd8c46" "The Federalist, No. 49: Method of Guarding Against the Encroachments of Any One Department of Government b Appealing to the People Through a Convention" %}}."
 
-———. "[The Federalist, No. 51: The Structure of the Government Must Furnish the Proper Checks and Balances Between the Different Departments](https://guides.loc.gov/federalist-papers/text-51-60#s-lg-box-wrapper-25493427)."
+———. "{{% resource_link "b9a41722-118d-43b6-8dd2-2e8d62364015" "The Federalist, No. 51: The Structure of the Government Must Furnish the Proper Checks and Balances Between the Different Departments" %}}."
 
-———. "[The Federalist, No. 57: The Alleged Tendency of the New Plan to Elevate the Few at the Expense of the Many Considered in Connection with Representation](https://guides.loc.gov/federalist-papers/text-51-60#s-lg-box-wrapper-25493433)."
+———. "{{% resource_link "08f8245b-20f1-458a-82b8-d457d31996c5" "The Federalist, No. 57: The Alleged Tendency of the New Plan to Elevate the Few at the Expense of the Many Considered in Connection with Representation" %}}."
 
-———. "[The Federalist, No. 63: The Senate (continued)](https://guides.loc.gov/federalist-papers/text-61-70#s-lg-box-wrapper-25493450)."
+———. "{{% resource_link "a9d36207-eb7a-499c-9120-b2e64f6eba47" "The Federalist, No. 63: The Senate (continued)" %}}."
 
-Hamilton, Alexander. "[The Federalist, No. 69: The Real Character of the Executive](https://guides.loc.gov/federalist-papers/text-61-70#s-lg-box-wrapper-25493456)."
+Hamilton, Alexander. "{{% resource_link "f1a7dbf0-40dd-4d0d-b50e-f7a6d58606ad" "The Federalist, No. 69: The Real Character of the Executive" %}}."
 
-———. "[The Federalist, No. 84: Certain General and Miscellaneous Objections to the Constitution Considered and Answered](https://guides.loc.gov/federalist-papers/text-81-85#s-lg-box-wrapper-25493491)."
+———. "{{% resource_link "57b3f7a0-a56d-4701-be35-f6c3de391cc1" "The Federalist, No. 84: Certain General and Miscellaneous Objections to the Constitution Considered and Answered" %}}."
 
 *See the* {{% resource_link "daa2ba65-4163-c1b8-47d5-c317f6b1af75" "*Study Questions*" "#8" %}} *section*
 
@@ -263,7 +261,7 @@ Liberty and Equality in America
 Lincoln: A New Birth of Freedom?
 {{< tdclose >}}{{< tdopen >}}
 
-[The Lincoln / Douglas Debates of 1858](http://lincoln.lib.niu.edu/lincolndouglas), lincoln.lib.niu.ebu.
+{{% resource_link "b8207237-c025-4c1b-b9dd-6438debe7da4" "The Lincoln / Douglas Debates of 1858" %}}, lincoln.lib.niu.ebu.
 
 *See the* {{% resource_link "daa2ba65-4163-c1b8-47d5-c317f6b1af75" "*Study Questions*" "#10" %}} *section*
 
